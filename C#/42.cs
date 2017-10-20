@@ -14,6 +14,10 @@ namespace DecisionMaking
                 {
                     i = 0;
                 }
+                else
+                {
+                     Console.WriteLine(n);
+                }
             }
         }
     }
